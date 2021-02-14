@@ -1,0 +1,1 @@
+mongodb+srv://Haris:<password>@my-project.bdxk8.mongodb.net/<dbname>?retryWrites=true&w=majority
